@@ -1,6 +1,6 @@
 # 115index-alist
 ## 使用说明
-1.alist挂载115后安全进行索引，测试服务器为Ubuntu24.04
+1.alist挂载网盘后安全进行索引，测试服务器为Ubuntu24.04，测试网盘为115，其他网盘应该也是可以的
 
 2.将115添加到alsit，用davfs2通过webdav的方式挂载到本地，停止alist，将alist的data.db，复制到脚本同目录下，建议data.db先备份一份，有问题可以恢复
 
