@@ -1,12 +1,10 @@
 # 115index-alist
 ## 使用说明
-1.alist挂载115后安装进行索引
+1.alist挂载115后安全进行索引，测试服务器为Ubuntu24.04
 
-测试服务器为Ubuntu24.04
+2.将115添加到alsit，用davfs2通过webdav的方式挂载到本地，停止alist，将alist的data.db，复制到脚本同目录下，建议data.db先备份一份，有问题可以恢复
 
-将115添加到alsit，用davfs2通过webdav的方式挂载到本地，停止alist，将alist的data.db，复制到脚本同目录下，建议data.db先备份一份，有问题可以恢复
-
-运行脚本，输入挂载的目录，例如：/mnt/webdav1 /mnt/webdav2
+3.运行脚本，输入挂载的目录，例如：/mnt/webdav1 /mnt/webdav2
 
 是否执行自动剔除无效路径？
 
