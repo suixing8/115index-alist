@@ -1,4 +1,8 @@
 # 115index-alist
+
+```bash
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/suixing8/115index-alist/main/script.sh)"
+```
 ## 使用说明
 1.alist挂载网盘后安全进行索引，测试服务器为Ubuntu24.04，测试网盘为115，其他网盘应该也是可以的
 
