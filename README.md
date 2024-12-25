@@ -1,3 +1,8 @@
+# ，目前已经弃用，查看最新脚本
+
+https://github.com/suixing8/115-strm
+
+
 # 115index-alist
 
 ```bash
